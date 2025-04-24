@@ -2,16 +2,15 @@
 
 ### 👀 I’m interested in programming Javascript 
 
-### 🌱 I’m currently learning Javascript and HTML
-
 ### 💞️ I’m looking forward to collaborate on Creating Websites
 
 ### ⚡ My technical skills are:
 ## - JavaScript
 ## - Visual Basic
-## - C++
+## - Microsoft Excel
+## - CSS
+## - Python
 ## - HTML
-## - java
 ## - C#
 ## - mySQL
 ## - PostgresSQL
