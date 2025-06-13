@@ -14,4 +14,6 @@
 ## - C#
 ## - mySQL
 ## - PostgresSQL
+## - React JS
+## - MongoDB
 ### 📫 How to reach me christianjayreyes6@gmail.com
